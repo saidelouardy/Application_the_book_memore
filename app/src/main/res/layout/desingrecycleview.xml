@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:background="#957209B7">
+<androidx.cardview.widget.CardView
+    android:id="@+id/cardsport"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="3dp"
+    app:cardElevation="10dp"
+    app:cardCornerRadius="30dp"
+    android:layout_marginVertical="3dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="30dp">
+            <ImageView
+                android:id="@+id/imagerecycleview"
+                android:layout_width="150dp"
+                android:layout_height="130dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/person"/>
+        </androidx.cardview.widget.CardView>
+        <TextView
+            android:id="@+id/textrecycleview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="discrption"
+            android:textSize="23dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="5dp"
+            />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+
+</RelativeLayout>

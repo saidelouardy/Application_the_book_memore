@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/progrss">
+       <scale android:scaleWidth="100%" android:scaleHeight="10ddp">
+           <shape>
+               <solid android:color="#25BEFB"/>
+               <corners
+                   android:radius="90dp"/>
+           </shape>
+       </scale>
+    </item>
+
+</layer-list>

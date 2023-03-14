@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".booktime.booktimeActivity"
+    android:background="#527209B7">
+
+    <LinearLayout
+        android:id="@+id/linerbook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginHorizontal="10dp"
+        android:background="@drawable/linerlayoutedittextbooktime">
+        <EditText
+            android:id="@+id/editedaybooktime"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:hint="DD/MM/YYYY"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:background="@drawable/deitonebooktime"
+            android:layout_marginBottom="10dp"
+            />
+        <EditText
+            android:id="@+id/editedescriptionbooktime"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:hint="what you did do in this day start write what is importent to save"
+            android:textSize="20dp"
+            android:textAlignment="center"
+            android:layout_marginBottom="5dp"
+            android:textStyle="bold"
+            android:background="@drawable/edittextbooktime"
+            />
+    </LinearLayout>
+    <Button
+        android:id="@+id/senddtatDateDescription"
+        android:layout_below="@id/linerbook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="send"
+        android:textSize="25dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginHorizontal="60dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/edittext"
+        />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardgone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/senddtatDateDescription"
+        app:cardCornerRadius="50dp">
+        <LinearLayout
+            android:id="@+id/layoutbooktime"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/textbooktimeday"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" DD/MM/YYYY"
+                android:textStyle="italic"
+                android:textSize="25dp"
+                android:textColor="@color/black"
+                android:textAlignment="center"
+               />
+            <TextView
+                android:visibility="gone"
+                android:id="@+id/textbooktimedescription"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" hi I'm said el ouardy"
+                android:textStyle=""
+                android:textSize="25dp"
+                android:textColor="#555454"
+                android:textAlignment="center"/>
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

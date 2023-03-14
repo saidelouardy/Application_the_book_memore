@@ -1,0 +1,143 @@
+<resources>
+    <string name="aghdya">Food</string>
+    <string name="tmrin">Exercises</string>
+    <string name="app_name">زيادة الطول</string>
+    <string name="title1_sport">Benefits of exercise to increase height</string>
+    <string name="definition_sport1">
+        Studies show that regular exercise, proper nutrition,
+        and adequate sleep can increase the production of growth hormone (human growth hormone)
+        without medication or surgical intervention!
+        This science-based app can help you increase your height and build bones.
+    </string>
+    <string name="title2_sport">Pelvic lift</string>
+    <string name="definition_sport2">
+    This exercise is done as the following steps: lie on your back on the floor.Bend the knees,
+        then lift the pelvic area and buttocks up.Hold this position for 20-30 seconds.
+    </string>
+    <string name="title4_sport">Swimming</string>
+    <string name="definition_sport3">
+        Swimming is one of the height exercises that help children a lot in lengthening their stature,
+        in addition to its benefits in improving breathing and strengthening the respiratory system and heart.
+    </string>
+    <string name="title5_sport">Running</string>
+    <string name="definition_sport4">
+        Running strengthens all the muscles of the body,
+        especially the legs, and it can also be practiced with parents to encourage the child to perform it regularly.
+
+    </string>
+
+    <string name="title6_sport">Stretching exercises</string>
+    <string name="definition_sport5">
+        The following stretching exercises can be used to increase height, and repeat them at least 10 times a day for best results:
+	Rest the body against the wall with its back, then stretch the arms up as much as possible.
+	Support the object against the wall, and extend the leg forward as much as you can.
+	Move the legs apart and then lean the waist forward and try to touch his toes with his fingers.
+
+
+    </string>
+
+    <string name="title7_sport"> Cobra stretch</string>
+    <string name="definition_sport6">
+       Cobra extension is one of the yoga movements that aim to extend the spine and work to increase its flexibility and flexibility, as well as the growth of cartilage between the vertebrae, which is reflected positively along the back and increases.
+To do this height increase exercise, follow the following steps:
+1. Sleep on the floor so that the abdomen faces the ground.
+2.Straighten the legs and bend the arms below the shoulders, and position the shoulder facing the floor.
+3. Lean on the arms and lift the body up from the front.
+4. Hold this position for a period ranging from 5 to 30 seconds, gradually increasing the period until it reaches the limit of 35 seconds.
+
+</string>
+    <string name="title8_sport">Stretching of the spine forward</string>
+    <string name="definition_sport7">
+        How to perform this exercise:
+        Start by sitting up straight with your feet stretched out, shoulder-width apart. Inhale deeply,
+        Bend your spine forward and clasp and stretch your hands along with the spine.
+        Try touching the tips of your toes, keeping your spine bent to the maximum.
+        Repeat the exercise in three to four sets, and continue each exercise for 10-15 seconds.
+    </string>
+
+    <string name="title9_sport">Hanging tape</string>
+    <string name="definition_sport8">
+        It is considered one of the most effective height exercises because it stretches the lower torso and reduces the tension of the vertebrae
+It is considered one of the most effective length-increasing exercises because it stretches the lower trunk and reduces the tension of the vertebrae.
+How to perform this exercise: After standing up straight with hands raised, raise your body and hold the hard and firm hanging bar,
+and keep it that way for 20 seconds,
+ repeat the exercise three to four times a day .
+</string>
+
+    <string name="title10_sport">Stretching forward</string>
+    <string name="definition_sport9">
+        This exercise is one of the most popular and well-known extensions to increase height
+Stimulates the muscles of the back and calf, improves liver and kidney function.
+How to perform this exercise: After standing up straight with your hands up, slowly lower them until they touch the toes without bending the knees.
+Keep this state for 30 seconds. Repeat ten times a day for faster results
+
+</string>
+
+    <string name="title1_eat">Foods that help increase length </string>
+    <string name="definition_eat1">Did you know that diets affect height as well as weight? There is no doubt that tall is a goal that everyone wishes
+It is known that genes are responsible for determining a persons height,
+but the fact that there are certain foods that help promote growth and increase
+height should not be overlooked, as many studies have concluded. As we all know,
+height stops at a certain age, so it is always recommended to focus on some foods for children and adolescents to enjoy height.
+</string>
+
+    <string name="title2_eat">Turnip</string>
+    <string name="definition_eat2">
+        It is rich in growth hormones, and indeed eating a lot of turnips helps in tallening stature,
+        as it is rich in vitamins,
+        minerals and fiber, which stimulates growth hormones in the body.
+    </string>
+
+    <string name="title3_eat">Eggs</string>
+    <string name="definition_eat3">
+        Eggs are rich in proteins that play an essential role in increasing height,
+        so the child must eat eggs on a daily basis, to get a healthy body and an ideal length.
+    </string>
+
+    <string name="title4_eat">Spinach</string>
+    <string name="definition_eat4">
+        It is the golden food for children and adolescents,
+        it strengthens immunity and increases height as well, it is rich in iron and calcium
+    </string>
+
+    <string name="title5_eat">Whole grains</string>
+    <string name="definition_eat5">
+        Foods rich in whole grains are very useful in increasing height, and whole wheat grains are the best,
+        as they are rich in vitamin "B" and iron. Whole-grain baked goods as well as whole-grain pasta can be relied upon for a taller stature.
+
+    </string>
+
+    <string name="title6_eat">Yogurt</string>
+    <string name="definition_eat6">
+        It is rich in vitamin "D" and proteins as well as calcium, so it is a type of important food that stimulates growth and increases height.
+    </string>
+
+    <string name="title9_eat">chickens</string>
+    <string name="definition_eat7">
+        Chicken meat is a great source of proteins that help promote growth and increase body length
+    </string>
+
+    <string name="title10_eat">Islands</string>
+    <string name="definition_eat8">
+        Carrots are rich in vitamin "A", which stimulates the growth process and helps increase height
+    </string>
+
+    <string name="title11_eat"> Milk</string>
+    <string name="definition_eat9">
+        Milk is an essential source of calcium, which helps strengthen bones as well as enhance height,
+        so a glass of milk on a daily basis,
+        especially in the morning, is indispensable for a healthy body
+    </string>
+
+    <string name="title12_eat"> soybeans</string>
+    <string name="definition_eat10">
+        Helps promote muscle and bone growth in the body, as it is a great source of proteins
+    </string>
+    <string name="advicefood"> 1) Eat nutrients that are very important in building the body, especially in childhood and adolescence, by making sure to eat foods that contain calcium, potassium, amino acids, and proteins.2) Stay away from eating foods that contain high levels of fats and carbohydrates that lead to weight gain, and make the body shape inconsistent.3) Eat foods that contain iodine in large quantities, such as fish and all types of seafood.4) Stimulating growth hormone in the body by exercising of various kinds, and continuously, such as swimming, in addition to providing comfort to the body by providing adequate sleep hours during the night period, as the activity of growth hormone increases in the body.
+</string>
+    <string name="advicesport">1) These exercises should be practiced three times a wee2) Height increases help stretch muscles and bones, and thus increase the length of the body, but the practitioner should not think that from one exercise session his length will increase, but the effect is cumulative, and it may take months to make the effect noticeable, and it must be practiced on a daily basis.
+
+
+
+</string>
+</resources>
